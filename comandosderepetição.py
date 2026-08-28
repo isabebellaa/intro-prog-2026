@@ -1,4 +1,4 @@
 num = 1
 while num <= 10:
-    print (num) 
+    print (num, end=" ") 
     num = num + 1
